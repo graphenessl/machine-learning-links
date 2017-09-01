@@ -24,3 +24,4 @@ https://www.datacamp.com/community/tutorials/seaborn-python-tutorial#gs.phmEq6w
 - **`Datacamp`**: https://www.datacamp.com
 - **`Machine Learning algorithms`**: http://scikit-learn.org/stable/index.html
 - **`TensorFlow`**: https://www.tensorflow.org/get_started/get_started
+- **`Open AI`**: https://openai.com
