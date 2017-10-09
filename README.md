@@ -19,7 +19,8 @@ https://www.datacamp.com/community/tutorials/seaborn-python-tutorial#gs.phmEq6w
 - **`Apache Spark`**: https://www.datacamp.com/community/tutorials/apache-spark-python
 - **`Jupyter`**: http://jupyter.org
 - **`Scala`**: https://www.scala-lang.org
-- **`TensorFlow`**: https://www.tensorflow.org
+- **`TensorFlow`**: Machine Learning Library: https://www.tensorflow.org
+- **`Keras`**: A high level neural network library, usable with TensorFlow: https://keras.io/
 - **`Anaconda`**: A lot of data science python packages together: https://www.continuum.io
 
 # Ready data sets and tools:
