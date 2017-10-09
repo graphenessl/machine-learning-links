@@ -33,8 +33,14 @@ https://research.googleblog.com/2016/03/train-your-own-image-classifier-with.htm
 # Tutorials:
 - **`Datacamp`**: https://www.datacamp.com
 - **`Machine Learning algorithms`**: http://scikit-learn.org/stable/index.html
+- **`Cambridge: Deep Neural Networks tutorial`**: https://cambridgespark.com/content/tutorials/convolutional-neural-networks-with-keras/index.html
 - **`TensorFlow`**: https://www.tensorflow.org/get_started/get_started
 - **`Open AI`**: https://openai.com
 
+# Courses:
+- **`MIT 6.034`**: https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/
+- **`Stanford CS231`**: http://cs231n.stanford.edu/
+
 # General information
 - **`Google Research Blog`**: https://www.datacamp.com
+
