@@ -31,6 +31,7 @@ https://research.googleblog.com/2016/03/train-your-own-image-classifier-with.htm
 - **`List of datasets for machine learning`**: https://en.wikipedia.org/wiki/List_of_datasets_for_machine_learning_research#Image_data
 
 # Tutorials:
+- **`Brandon Rohrer`**: https://brohrer.github.io/blog.html
 - **`Datacamp`**: https://www.datacamp.com
 - **`Machine Learning algorithms`**: http://scikit-learn.org/stable/index.html
 - **`Cambridge: Deep Neural Networks tutorial`**: https://cambridgespark.com/content/tutorials/convolutional-neural-networks-with-keras/index.html
